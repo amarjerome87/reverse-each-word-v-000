@@ -9,4 +9,4 @@ def reverse_each_word(string)
 array_new = []
 array_new.collect do |word| word.reverse
 end
-end 
+end
